@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dc8.Services.Identity.Core", "src\Dc8.Services.Identity.Core\Dc8.Services.Identity.Core.csproj", "{C88906F3-2633-4EDF-8F49-A448E29422E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dc8.Services.Identity.Application", "Dc8.Services.Identity.Application\Dc8.Services.Identity.Application.csproj", "{A0D6E4A8-FAAB-4197-8063-8D37B99C24AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dc8.Services.Identity.Application", "src\Dc8.Services.Identity.Application\Dc8.Services.Identity.Application.csproj", "{A0D6E4A8-FAAB-4197-8063-8D37B99C24AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
