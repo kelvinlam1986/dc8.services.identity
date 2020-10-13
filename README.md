@@ -1,0 +1,1 @@
+Dc8.Services.Identity is the microservice being part of Dc8 microservices solution.
